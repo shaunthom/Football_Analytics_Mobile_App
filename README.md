@@ -66,6 +66,11 @@ For those interested in the technical details, here's how the files are organize
 
 
 Components: Football_Coaching_Mobile_App/frontend/src/components
+
 Navigators: Football_Coaching_Mobile_App/frontend/src/navigators
+
 Screens: Football_Coaching_Mobile_App/frontend/src/screens
+
 Assets: Football_Coaching_Mobile_App/frontend/assets
+
+
