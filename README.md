@@ -74,13 +74,6 @@ Screens are the individual pages or views that users interact with. We have:
 ![timeline page](https://github.com/shaunthom/Football_Analytics_Mobile_App/assets/134566032/9634eee5-25c5-4274-b49b-490b09a8cbc8)
 
 
-
-Assets
-
-These are the visual elements like pictures used in the app, which can be found in:
-
-pngs: Various images for the app.
-
 ## Results
 
 It can generate almost all the stats and tendencies  from HUDL and in real-time (just need proper verbal comments). Some qualitative information include top K good/bad OffenseDefense formations and matchups. It can also generate predictions, recommendations and much more! In short, it is as powerful as you expect AI to be (i.e. infinity)!
