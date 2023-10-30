@@ -50,7 +50,8 @@ History: This screen showcases past records, data, and actions of the team or in
 
 Login: The Login screen is the gateway for users to access the app using their credentials. By entering their username and password, they can securely access their data and the app's features.
 
-![login page](https://github.com/shaunthom/Football_Analytics_Mobile_App/assets/134566032/2b467007-e777-4121-b39b-333ed18b8e2d)
+![login page](https://github.com/shaunthom/Football_Analytics_Mobile_App/assets/134566032/1467c975-0484-4284-932a-7364cce5dce2)
+
 
 
 Playbook: The Playbook screen is a strategic hub. Here, users can view, create, or modify plays, strategies, and game plans, ensuring they're prepared for any match or scenario.
