@@ -81,6 +81,13 @@ These are the visual elements like pictures used in the app, which can be found 
 
 pngs: Various images for the app.
 
+## Results
+
+It can generate almost all the stats and tendencies  from HUDL and in real-time (just need proper verbal comments). Some qualitative information include top K good/bad OffenseDefense formations and matchups. It can also generate predictions, recommendations and much more! In short, it is as powerful as you expect AI to be (i.e. infinity)!
+
+![results](https://github.com/shaunthom/Football_Analytics_Mobile_App/assets/134566032/8b1f1c23-86ac-43fc-b81b-6bce2f862e6a)
+
+
 ## File Hierarchy
 
 For those interested in the technical details, here's how the files are organized:
@@ -93,5 +100,4 @@ Navigators: Football_Coaching_Mobile_App/frontend/src/navigators
 Screens: Football_Coaching_Mobile_App/frontend/src/screens
 
 Assets: Football_Coaching_Mobile_App/frontend/assets
-
 
