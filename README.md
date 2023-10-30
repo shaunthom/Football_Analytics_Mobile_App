@@ -2,6 +2,16 @@
 
 Welcome to the Football Coaching Mobile App repository! This app is built using React Native and provides features that are beneficial for football coaching.
 
+## Why this application?
+
+High school and college sports teams face significant barriers to accessing advanced real-time sports analytics tools. HUDL, a popular sports analytics platform, charges at least $1,000 per year for about 100 hours of game statistics, mostly for post-game analysis.
+Traditional methods of gathering game data, such as manually tracking statistics or reviewing game footage, can be time-consuming, not comprehensive enough, and ineffective.
+
+Enter AI Huddle: a smart-phone app !!! 
+
+AI Huddle enables coaches to use their smartphones to record their verbal comments on each play and selected players during a game, as well as relevant video snippets for reviews at a later time. The recorded audio will be automatically transcribed using speech-to-text (STT) technologies; and the text will also be analyzed using natural language Processing (NLP) technologies to generate reports and stats in real-time. In addition to the automatically translated text, the coaches can manually edit/correct the comments before being processed by NLP.
+
+
 ## What's Inside
 
 #### Components
@@ -40,11 +50,17 @@ History: This screen showcases past records, data, and actions of the team or in
 
 Login: The Login screen is the gateway for users to access the app using their credentials. By entering their username and password, they can securely access their data and the app's features.
 
+![login page](https://github.com/shaunthom/Football_Analytics_Mobile_App/assets/134566032/2b467007-e777-4121-b39b-333ed18b8e2d)
+
+
 Playbook: The Playbook screen is a strategic hub. Here, users can view, create, or modify plays, strategies, and game plans, ensuring they're prepared for any match or scenario.
 
 Profile: On the Profile screen, users can view and edit their personal details. This includes information like their name, profile picture, contact details, and preferences.
 
 Record: This is where users can create, view, and manage audio or video recordings. Whether they're capturing a play, feedback, or any other content, the Record screen makes it simple.
+
+![record_page](https://github.com/shaunthom/Football_Analytics_Mobile_App/assets/134566032/c6e6a852-6bda-45e0-ae0a-f29aead28c7c)
+
 
 Register: New users come to the Register screen to create an account. By providing necessary details and setting up a password, they can join the app community.
 
@@ -53,6 +69,9 @@ Roster: The Roster screen lists all team members or participants, along with the
 Statistics: The Statistics screen is a data-driven space. Here, users can view performance metrics, analyses, and insights, helping them make informed decisions and strategies.
 
 Timeline: The Timeline screen presents events, actions, or milestones in a chronological order. It gives users a clear view of what's happened in the past, what's currently ongoing, and what's planned for the future.
+
+![timeline page](https://github.com/shaunthom/Football_Analytics_Mobile_App/assets/134566032/a3004cf0-2042-481d-bbae-cff655607e21)
+
 
 Assets
 
