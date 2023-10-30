@@ -60,7 +60,7 @@ Profile: On the Profile screen, users can view and edit their personal details. 
 
 Record: This is where users can create, view, and manage audio or video recordings. Whether they're capturing a play, feedback, or any other content, the Record screen makes it simple.
 
-![record_page](https://github.com/shaunthom/Football_Analytics_Mobile_App/assets/134566032/c6e6a852-6bda-45e0-ae0a-f29aead28c7c)
+![record_page](https://github.com/shaunthom/Football_Analytics_Mobile_App/assets/134566032/620ca971-61ce-4530-8c55-0b7a74b22b5f)
 
 
 Register: New users come to the Register screen to create an account. By providing necessary details and setting up a password, they can join the app community.
@@ -71,7 +71,8 @@ Statistics: The Statistics screen is a data-driven space. Here, users can view p
 
 Timeline: The Timeline screen presents events, actions, or milestones in a chronological order. It gives users a clear view of what's happened in the past, what's currently ongoing, and what's planned for the future.
 
-![timeline page](https://github.com/shaunthom/Football_Analytics_Mobile_App/assets/134566032/a3004cf0-2042-481d-bbae-cff655607e21)
+![timeline page](https://github.com/shaunthom/Football_Analytics_Mobile_App/assets/134566032/9634eee5-25c5-4274-b49b-490b09a8cbc8)
+
 
 
 Assets
